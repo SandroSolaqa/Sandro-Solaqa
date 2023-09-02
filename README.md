@@ -1,4 +1,4 @@
-########## Sandro-Solaqa - Computer Engineering Student  ######################
+########## Sandy-Solaqa - Computer Engineering Student  ######################
 
 Welcome to the GitHub repository! This repository is a glimpse into my journey through the world of computer engineering.
 Here, you'll find a collection of projects, code snippets, and documentation related to my academic and personal exploration of the field.
